@@ -1,13 +1,13 @@
 {
   "name": "sleep-counter",
   "version": "1.0.0",
-  "description": "",
+  "description": "Track the sleep of your child",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "author": "Glenn Jorde <glenn@tregusti.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "koa": "^1.2.4",
     "koa-static": "^2.0.0"
